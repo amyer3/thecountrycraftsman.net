@@ -1,0 +1,19 @@
+{
+  "name": "cc-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^2.1.8",
+    "express": "^4.16.4",
+    "tar-pack": "^3.4.1"
+  },
+  "devDependencies": {
+    "tar": "^4.4.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
