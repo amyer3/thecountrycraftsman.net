@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import logo from './import/assets/logo.svg';
-import video from './import/assets/landscape_drone.mp4'
+import logo from './assets/logo.svg';
+import video from './assets/landscape_drone.mp4'
 import './App.css';
 
 class App extends Component {
