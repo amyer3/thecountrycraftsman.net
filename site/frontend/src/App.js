@@ -46,9 +46,8 @@ class NavBar extends React.Component {
         <img id="logo" src= {logo} alt="The Country Craftsman" />
       </div>
       <div id="right-split">
-        {this.navButton("/shop","Online Store")}
+        {this.navButton("shop.thecountrycraftsman.net","Store")}
         {this.navButton("mailto:me@am.xyz?", "Contact")}
-        {this.navButton("/sale", "Next Sale")}
       </div>
     </span>
 
